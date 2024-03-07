@@ -1,4 +1,4 @@
 package com.unialfa;
 
-public class novaclasse {
+public class NovaClasse {
 }
